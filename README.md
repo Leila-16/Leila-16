@@ -23,13 +23,13 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Moscow.
 - :mag_right: I’m looking for a remote job as a Data Analyst.
 - :dart: Currently learning Python (NumPy, Pandas).
 - :jigsaw: In my free time, I like to 'play' with sql-ex, SQL Murder Mystery and sql academy.
 - :woman_office_worker: Ex Big4 auditor and consultant.
 - :parrot: Mama of a galah cockatoo.
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Leila_B16)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Leila_B16)
 
 
 
