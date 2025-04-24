@@ -28,8 +28,11 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :dart: Currently learning Python (NumPy, Pandas).
 - :jigsaw: In my free time, I like to 'play' with sql-ex, SQL Murder Mystery and sql academy.
 - :woman_office_worker: Ex Big4 auditor and consultant.
-- :parrot: Mama of a galah cockatoo.
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Leila_B16)
+- :parrot: Fun fact: mama of a galah cockatoo.
 
+---
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?Leila-16
+[![GitHub Streak](https://streak-stats.demolab.com?Leila-16-username&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
