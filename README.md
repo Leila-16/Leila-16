@@ -26,7 +26,6 @@
 I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Moscow.
 - :woman_office_worker: I have experience working with Excel, SQL and Python (NumPy, Pandas, Matplotlib, Seaborn)
 - :mag_right: Currently looking for a remote job as a Data Analyst.
-- :parrot: Fun fact: mama of a galah cockatoo.
 
 ---
 
