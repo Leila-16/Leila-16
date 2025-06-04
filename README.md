@@ -34,10 +34,6 @@ I’m a data analyst with a background in auditing and a passion for solving pro
  <a href="https://www.tableau.com/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
 </a>
-<a href="https://redash.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/lldev-bio/assets/main/redash-logo.png" alt="Redash" width="40" height="40"/>
-</a>
-
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
 </a>
