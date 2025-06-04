@@ -19,14 +19,15 @@
 
 ## 👩‍💻 About Me
 
-I’m a data analyst with a background in auditing and a passion for solving problems through data. I specialize in SQL and Excel, with hands-on experience creating analytical dashboards and metrics in Tableau and Redash. Currently building personal projects to showcase business insights through data.  
+I’m a data analyst with a background in auditing and strategic consulting and a passion for solving problems through data. I specialize in SQL and Excel, with hands-on experience creating analytical dashboards and metrics in Tableau and Redash. Currently building personal projects to showcase business insights through data.  
 
 ---
 
 <table width="100%" style="table-layout: fixed;">
   <tr>
+    <!-- First Column: Tech Stack -->
     <td valign="top" align="center" style="padding: 0 10px 10px 10px; vertical-align: top;">
-  <div style="font-size: 40px; font-weight: bold; margin-bottom: 4px;">🛠 Tech Stack</div>
+      <div style="font-size: 40px; font-weight: bold; margin-bottom: 4px;">🛠 Tech Stack</div>
       <p style="white-space: nowrap; overflow-x: auto;">
         <span style="display:inline-block; min-width: 240px;">
           <a href="https://www.postgresql.org/" target="_blank">
@@ -35,20 +36,24 @@ I’m a data analyst with a background in auditing and a passion for solving pro
           <a href="https://www.mysql.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>
           </a>
+          <a href="https://www.tableau.com/" target="_blank">
+            <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/>
+          </a>
+          <a href="https://redash.io/" target="_blank">
+            <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" width="36" alt="Redash Icon"/>
+          </a>
           <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
             <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="36"/>
           </a>
           <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
             <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="36"/>
           </a>
-          <a href="https://phppgadmin.sourceforge.net/" target="_blank">
-            <img src="https://img.icons8.com/ios-filled/50/666666/php.png" alt="phpPgAdmin" width="36" height="36"/>
-          </a>
         </span>
       </p>
     </td>
-<td valign="top" align="center" style="padding: 0 10px 10px 10px; vertical-align: top;">
-  <div style="font-size: 40px; font-weight: bold; margin-bottom: 4px; white-space: nowrap;">📚 Currently Learning</div>
+    <!-- Second Column: Currently Learning -->
+    <td valign="top" align="center" style="padding: 0 10px 10px 10px; vertical-align: top;">
+      <div style="font-size: 40px; font-weight: bold; margin-bottom: 4px; white-space: nowrap;">📚 Currently Learning</div>
       <p style="white-space: nowrap; overflow-x: auto;">
         <span style="display:inline-block; min-width: 200px;">
           <a href="https://www.python.org/" target="_blank">
