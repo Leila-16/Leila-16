@@ -23,43 +23,44 @@ I’m a data analyst with a background in auditing and a passion for solving pro
 
 ---
 
-## 🧰 Tech Stack
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
- <a href="https://www.tableau.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-</a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" alt="PowerPoint" width="40" height="40"/>
-  </a>
-  <a href="https://phppgadmin.sourceforge.net/" target="_blank">
+<table width="100%" style="border-spacing: 40px 0;">
+  <tr>
+    <td valign="top" width="50%" align="center" style="padding-right: 20px;">
+      <h3>🛠 Tech Stack</h3>
+      <p style="white-space: nowrap; overflow-x: auto;">
+        <a href="https://www.postgresql.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+        </a>
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+        </a>
+        <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+          <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40"/>
+        </a>
+        <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
+          <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="40"/>
+        </a>
+       <a href="https://phppgadmin.sourceforge.net/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/666666/php.png" alt="phpPgAdmin" width="40" height="40"/>
   </a>
-</p>
-
-
----
-
-## 📚 Currently Learning
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
- <a href="https://scipy.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy" width="40" height="40"/>
-</a>
-</p>
+      </p>
+    </td>
+    <td valign="top" width="50%" align="center" style="padding-left: 20px;">
+      <h3>📚 Currently Learning</h3>
+      <p style="white-space: nowrap; overflow-x: auto;">
+        <a href="https://www.python.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+        </a>
+        <a href="https://pandas.pydata.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+        </a>
+        <a href="https://numpy.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+        </a>
+        <a href="https://scipy.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="40" alt="SciPy"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
