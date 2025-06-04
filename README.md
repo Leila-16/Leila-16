@@ -27,7 +27,7 @@ I’m a data analyst with a background in auditing and strategic consulting and 
   <tr>
     <!-- First Column: Tech Stack -->
     <td valign="top" align="center" style="padding: 0 10px 10px 10px; vertical-align: top;">
-      <div style="font-size: 40px; font-weight: bold; margin-bottom: 4px;">🛠 Tech Stack</div>
+      <div style="font-size: 40px; font-weight: bold; margin-bottom: 4px;">🛠 Languages and Tools</div>
       <p style="white-space: nowrap; overflow-x: auto;">
         <span style="display:inline-block; min-width: 240px;">
           <a href="https://www.postgresql.org/" target="_blank">
