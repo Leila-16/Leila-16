@@ -1,36 +1,45 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdha2k5dWc4NXkxMG1jdmczdmo0YTc0NXQ2OWU3eDduNWpxczhpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iV6Ykak9ZBzgX7tOk6/giphy.gif" width="100"/>
+<!-- Centered name in purple -->
+<h1 align="center" style="color:purple;">Leila Badalova</h1>
 
 
-
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<!-- Buttons: Resume + Telegram -->
+<p align="center">
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%23b265ff?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
-    <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
+  <a href="https://t.me/your_telegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://t.me/Leila_B16">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
+</p>
 
-
-<h1>
-  Hey there, I'm Leila
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
-### :woman_technologist: About Me :
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Moscow.
-- :woman_office_worker: I have experience working with Excel, SQL and Python (NumPy, Pandas, Matplotlib, Seaborn)
-- :mag_right: Currently looking for a remote job as a Data Analyst.
 
 ---
 
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?Leila-16
-[![GitHub Streak](https://streak-stats.demolab.com?Leila-16-username&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+## 👩‍💻 About Me
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+I’m a data analyst with a background in auditing and a passion for solving problems through data. I specialize in SQL and Excel, with hands-on experience creating analytical dashboards and metrics in Tableau and Redash. Currently building personal projects to showcase business insights through data.  
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redash-EA1F24?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpPgAdmin-8892BF?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+</p>
