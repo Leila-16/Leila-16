@@ -23,12 +23,12 @@ I’m a data analyst with a background in auditing and a passion for solving pro
 
 ---
 
-<div align="center">
-  <table style="width: 100%; table-layout: fixed;">
-    <tr>
-      <td valign="top" align="center" style="width: 50%; padding: 10px;">
-        <h3>🛠 Tech Stack</h3>
-        <p style="white-space: nowrap;">
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td valign="top" align="center" style="padding: 0 10px 10px 10px; vertical-align: top;">
+  <div style="font-size: 40px; font-weight: bold; margin-bottom: 4px;">🛠 Tech Stack</div>
+      <p style="white-space: nowrap; overflow-x: auto;">
+        <span style="display:inline-block; min-width: 240px;">
           <a href="https://www.postgresql.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/>
           </a>
@@ -44,11 +44,13 @@ I’m a data analyst with a background in auditing and a passion for solving pro
           <a href="https://phppgadmin.sourceforge.net/" target="_blank">
             <img src="https://img.icons8.com/ios-filled/50/666666/php.png" alt="phpPgAdmin" width="36" height="36"/>
           </a>
-        </p>
-      </td>
-      <td valign="top" align="center" style="width: 50%; padding: 10px;">
-        <h3 style="white-space: nowrap;">📚 Currently Learning</h3>
-        <p style="white-space: nowrap;">
+        </span>
+      </p>
+    </td>
+<td valign="top" align="center" style="padding: 0 10px 10px 10px; vertical-align: top;">
+  <div style="font-size: 40px; font-weight: bold; margin-bottom: 4px; white-space: nowrap;">📚 Currently Learning</div>
+      <p style="white-space: nowrap; overflow-x: auto;">
+        <span style="display:inline-block; min-width: 200px;">
           <a href="https://www.python.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
           </a>
@@ -61,8 +63,9 @@ I’m a data analyst with a background in auditing and a passion for solving pro
           <a href="https://scipy.org/" target="_blank">
             <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="36" alt="SciPy"/>
           </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+        </span>
+      </p>
+    </td>
+  </tr>
+</table>
+
