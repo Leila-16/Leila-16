@@ -1,5 +1,7 @@
 <!-- Centered name in purple -->
-<h1 align="center" style="color:purple;">Leila Badalova</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&duration=2500&pause=1000&color=B265FF&center=true&vCenter=true&width=500&lines=Leila+Badalova" alt="Typing SVG" />
+</h1>
 
 
 <!-- Buttons: Resume + Telegram -->
@@ -7,7 +9,7 @@
   <a href="https://your-resume-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%23b265ff?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
-  <a href="https://t.me/your_telegram" target="_blank">
+  <a href="https://t.me/Leila_B16" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
