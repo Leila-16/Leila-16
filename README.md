@@ -31,15 +31,16 @@ I’m a data analyst with a background in auditing and a passion for solving pro
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
-  </a>
-  <a href="https://redash.io/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-redash-open-source-business-intelligence-platform-logo-color-tal-revivo.png" alt="Redash" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-plain.svg" alt="Excel" width="40" height="40"/>
-  </a>
+ <a href="https://www.tableau.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
+</a>
+<a href="https://redash.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/lldev-bio/assets/main/redash-logo.png" alt="Redash" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+</a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" alt="PowerPoint" width="40" height="40"/>
   </a>
@@ -62,7 +63,7 @@ I’m a data analyst with a background in auditing and a passion for solving pro
   <a href="https://numpy.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   </a>
-  <a href="https://scipy.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/SciPy_Logo.svg/512px-SciPy_Logo.svg.png" alt="SciPy" width="40" height="40"/>
-  </a>
+ <a href="https://scipy.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy" width="40" height="40"/>
+</a>
 </p>
