@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&duration=2500&pause=1000&color=B265FF&center=true&vCenter=true&width=500&lines=Leila+Badalova;Data+Analyst&repeat=false" alt="Typing SVG" />
   <br>
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://drive.google.com/file/d/1ay940Br2k0ygvXGKoZSPbNDvTyN2evpr/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%23b265ff?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
   <a href="https://t.me/Leila_B16" target="_blank">
